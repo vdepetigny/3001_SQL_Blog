@@ -1,24 +1,62 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Project Title - SQL/THE_HACKING_BLOG
 
-* Ruby version
+Holà Correctorios! Voici notre HACKING BLOG !
 
-* System dependencies
 
-* Configuration
+## Start up Project 
 
-* Database creation
+Un petit blog des familles!  
 
-* Database initialization
+## How does it work ?
 
-* How to run the test suite
+Pour info, il y a cinq modèles User, Article, Category : 
+* User a trois attributs (first_name, last_name, email),
+* Article a un deux attributs (title et content) et est associé à User,
+* Category a un attribut (name) et est associé à Article,
+* Comment a un attribut (name) et est associé à User et Article,
+* Like n'a aucun attribut et est associé User et Article. 
 
-* Services (job queues, cache servers, search engines, etc.)
+Comment runner notre magnifique application :  
+1/ Clone the github : git clone https://github.com/vdepetigny/3001_SQL_Blog.git  
 
-* Deployment instructions
+```
+git clone https://github.com/vdepetigny/3001_SQL_Blog.git
+```
 
-* ...
+2/ Ajoute les gems : fais un Bundle Install  
+
+
+```
+bundle install
+```
+
+3/ Lance les associations : rails db:migrate  
+
+```
+rails db:migrate
+```
+
+4/ Lance le fichier seed : rails db:seed  
+
+```
+rails db:seed
+```
+
+5/ Amuse-toi avec la console ! :smile:  
+
+
+#### Built with :heart: by : 
+
+Viviane de Petigny  
+Bastien Hiel  
+Gregoria Ndongozi  
+Mélanie Nguon  
+Alexis Janin  
+
+Bisous!
+
+![alt text](https://fr.cdn.v5.futura-sciences.com/buildsv6/images/largeoriginal/a/6/5/a65c6fc9d1_50001521_logo-skyblog.jpg)
+
