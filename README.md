@@ -25,6 +25,7 @@ Pour info, il y a cinq modèles User, Article, Category :
 * Like n'a aucun attribut et est associé User et Article. 
 
 Comment runner notre magnifique application :  
+
 1/ Clone the github : git clone https://github.com/vdepetigny/3001_SQL_Blog.git  
 
 ```
