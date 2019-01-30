@@ -10,6 +10,11 @@ Holà Correctorios! Voici notre HACKING BLOG !
 
 Un petit blog des familles!  
 
+![alt text](https://fr.cdn.v5.futura-sciences.com/buildsv6/images/largeoriginal/a/6/5/a65c6fc9d1_50001521_logo-skyblog.jpg)
+
+
+(Ouais ouais, on est tous passé par là TMTC!)
+
 ## How does it work ?
 
 Pour info, il y a cinq modèles User, Article, Category : 
@@ -58,5 +63,4 @@ Alexis Janin
 
 Bisous!
 
-![alt text](https://fr.cdn.v5.futura-sciences.com/buildsv6/images/largeoriginal/a/6/5/a65c6fc9d1_50001521_logo-skyblog.jpg)
 
